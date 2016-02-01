@@ -1,7 +1,7 @@
 # Raycaster-Project
 My C++ Raycaster, that supports diffuse lighting, hard shadows, triangle meshes, and reflective surfaces.
  
-#ABOUT 
+###ABOUT 
 - This raycaster renders a simple scene with hard shadows, and diffuse lighting 
 - The scene is made of up of sphere, triangle, and quad primitives. 
 - Quads are constructed via 2 triangles. 
