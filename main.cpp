@@ -14,4 +14,5 @@ int main(int, char**){
     Image raytraceImage(_width, _height);
     RayTraceScene(&raytraceImage, _width, _height);
     raytraceImage.show("CSC 305 RayCaster - Harrison Walters");
+    
 }
