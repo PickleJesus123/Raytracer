@@ -13,6 +13,7 @@ class Sphere : public Object
 public:
 
     Sphere() {
+        
     }
 
     Sphere(Vector3 Center_in, float Radius_in, Vector3 colour_in, bool reflective_in)
