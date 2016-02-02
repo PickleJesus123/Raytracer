@@ -11,8 +11,7 @@
 class Object
 {
 public:
-    virtual bool Intersect(Vector3 Origin, Vector3 Direction,
-            float * t, Vector3 * normal) = 0;
+    virtual bool Intersect(Vector3 Origin, Vector3 Direction, float * t, Vector3 * normal) = 0;
 
     Vector3 colour;
     bool isLight;
