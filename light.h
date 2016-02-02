@@ -28,8 +28,7 @@ public:
         reflective = false;
     }
 
-    virtual bool Intersect(Vector3 Origin, Vector3 Direction,
-                           float * t_out, Vector3 * normal_out)
+    virtual bool Intersect(Vector3 Origin, Vector3 Direction, float * t_out, Vector3 * normal_out)
     {
         return bulb.Intersect(Origin, Direction, t_out, normal_out);
     }
