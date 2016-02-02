@@ -46,7 +46,6 @@ Vector3 Camera;
 
 Pixel DiffuseShade(Vector3 Surface, Vector3 Normal, Vector3 objectColour)
 {
-    //These colours will give the sphere a red appearance
     Pixel shade;
     Vector3 PixelColour = AmbientColour;
 
