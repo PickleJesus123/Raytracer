@@ -14,7 +14,6 @@ class Triangle : public Object
 public:
 
     Triangle() {
-
     }
 
     Triangle(Vector3 tA_in, Vector3 tB_in, Vector3 tC_in, Vector3 colour_in)
