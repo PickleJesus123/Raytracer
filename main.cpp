@@ -1,10 +1,12 @@
+/*------------------------------
+* Main.cpp
+* Description: A program that raycasts a scene with a given width and height.
+*
+* By: Harrison Walters
+-------------------------------*/
+
 #include "Image.h"
-
 #include "raytrace.h"
-
-/*
- * Raycasts a scene of given width and height.
- */
 
 int main(int, char**){
 
