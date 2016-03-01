@@ -1,4 +1,4 @@
-# CSC305 Raycaster
+# CSC305 Raytracer
 My C++ Raycaster, that supports diffuse lighting, hard shadows, triangle meshes, and reflective surfaces.
 
 ![alt tag](http://i.imgur.com/cbol8dJ.png)
